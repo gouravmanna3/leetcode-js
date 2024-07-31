@@ -49,3 +49,5 @@ function isEqual(mapA, mapB) {
 let s = "cbaebabacd";
 let p = "abc";
 console.log(findAnagrams(s, p));
+
+// Output: [0,6]
