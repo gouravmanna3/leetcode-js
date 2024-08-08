@@ -17,4 +17,4 @@ var singleNumber = function (nums) {
   return uniqueElement;
 };
 
-console.log(singleNumber([[2, 2, 1]]));
+console.log(singleNumber([2, 2, 1]));
